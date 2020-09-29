@@ -44,3 +44,5 @@ CACHE_CONTENT = True
 PROFILE_IMAGE = "profil.png"
 
 DISPLAY_FOOTER = False
+
+OUTPUT_PATH = "docs/"
