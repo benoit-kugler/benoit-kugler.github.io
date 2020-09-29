@@ -1,4 +1,4 @@
-Title: Retour d'expérience sur l'enseignement
+Title: Retour d'expérience
 Date: 2020-07-15
 Category: Enseignement
 
