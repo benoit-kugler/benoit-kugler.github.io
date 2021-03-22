@@ -31,18 +31,21 @@ AUTHOR_FEED_RSS = None
 # SOCIAL = (('You can add links in your config file', '#'),
 #           ('Another social link', '#'),)
 
-DEFAULT_PAGINATION = False
-
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
 
 STATIC_PATHS = ("pdfs", "images",
                 )
 
 CACHE_CONTENT = True
 
-PROFILE_IMAGE = "profil.png"
-
 DISPLAY_FOOTER = False
 
 OUTPUT_PATH = "docs/"
+
+DISPLAY_HOME = False
+DEFAULT_PAGINATION = False
+INDEX_SAVE_AS = "enseignement.html"
+PAGE_URL = '{slug}.html'
+PAGE_SAVE_AS = '{slug}.html'
+DISPLAY_PAGES_ON_MENU = False
+DISPLAY_CATEGORIES_ON_MENU = False
+MENUITEMS = [('Accueil', '/'), ('Publications', '/publications.html'), ('Enseignement', '/enseignement.html') ]
