@@ -2,6 +2,9 @@ Title: Liste des publications
 Category: Recherche
 Slug:publications
 
+B. Kugler, F. Forbes, S. Douté, M. Gay. [Efficient Bayesian data assimilation via inverse regression.](https://hal.archives-ouvertes.fr/hal-03215200
+) *In 52èmes Journées de Statistique de la Société Française de Statistique (2021), Virtual meeting.*
+
 
 B. Kugler, F. Forbes, S. Douté. [Fast Bayesian Inversion for high dimensional inverse problems.](https://hal.archives-ouvertes.fr/hal-02908364)
 *Pré-publication.*
